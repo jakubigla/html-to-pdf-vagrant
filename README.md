@@ -8,3 +8,6 @@ Steps to follow:
   - Bring the VM up: ```vagrant up```
   - Run ```make convert``` from your host
   - Magic. Check your ```./pdf``` folder
+
+TODO:
+  - Add Docker as an alternative for Vagrant
