@@ -1,4 +1,5 @@
 # HTML to PDF with Vagrant
+[![Github All Releases](https://img.shields.io/github/downloads/jakubigla/html-to-pdf-vagrant/total.svg)]()
 
 This project takes advantage of free [wkhtmltopdf](http://wkhtmltopdf.org/) library.
 
