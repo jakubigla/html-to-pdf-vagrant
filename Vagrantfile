@@ -4,7 +4,7 @@
 # global configuration
 VAGRANTFILE_API_VERSION = "2"
 VAGRANT_BOX = "ubuntu/trusty64"
-VAGRANT_BOX_MEMORY = 1024
+VAGRANT_BOX_MEMORY = 256
 VIRTUAL_BOX_NAME = "html-to-pdf"
 
 Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
